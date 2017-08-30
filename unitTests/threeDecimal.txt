@@ -1,0 +1,1 @@
+/scripts/photoProcess/libPhoto/unitTests/1981-L-12345.000.tif

@@ -1,0 +1,8 @@
+2014_07_10 12:45:17 info:    sizeDir:  1
+2014_07_10 12:45:17 info:      t:  /scripts/photoProcess/libPhoto/unitTests/1981-L-12345.000.tif
+2014_07_10 12:45:17 info:  1 of 1
+2014_07_10 12:45:17 info:    oldTIFF:  1981-L-12345.000.tif
+2014_07_10 12:45:17 info:    dirPath:  /scripts/photoProcess/libPhoto/unitTests
+2014_07_10 12:45:17 info:    newTIFF:  1981-L-12345_000.tif
+2014_07_10 12:45:17 info:    oldTIFF:  1981-L-12345.000.tif != newTIFF:  1981-L-12345_000.tif
+2014_07_10 12:45:17 info:    newFullPath:  /scripts/photoProcess/libPhoto/unitTests/1981-L-12345_000.tif
